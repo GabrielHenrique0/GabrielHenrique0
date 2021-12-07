@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="(16)992154399"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 <div/>
