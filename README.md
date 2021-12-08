@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Hello World! 
 <!--
 **GabrielHenrique0/GabrielHenrique0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/GabrielHenrique0">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={GabrielHenrique0}&theme=blue-green"/>
+
+  ![GabrielHenrique0](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique0&theme=blue-green)
+
 </div>
 
-<div style="display: inline-block">
+<div display="inline-block">
   <a href="(16)992154399"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100010219541573"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/gabrielcaldeira436/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
