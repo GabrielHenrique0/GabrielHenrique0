@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <a href="https://github.com/GabrielHenrique0">
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique0&theme=blue-green)
+
+  </a>
 
 </div>
 
