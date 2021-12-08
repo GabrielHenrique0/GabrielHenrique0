@@ -1,12 +1,9 @@
-### Hi there 👋
-### 👨🏻‍💻 Hello World! :earth_americas:
+### :programmer: Hello World! :earth_americas:
 
 <div align="center">
   <a href="https://github.com/GabrielHenrique0">
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique0&theme=dark)
-
-  </a>
 
 </div>
 
@@ -20,6 +17,9 @@
   <a href="https://www.youtube.com/channel/UCiqPxi29_Hz0wxrQhtdbttw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
+<div>
+  <a href="https://github.com/GabrielHenrique0">
 
   ![Snake animation](https://github.com/GabrielHenrique0/GabrielHenrique0/blob/output/github-contribution-grid-snake.svg)
-  
+
+</div>
