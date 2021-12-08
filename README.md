@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GabrielHenrique0}"/></div>
 
 <div>
   <a href="(16)992154399"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
