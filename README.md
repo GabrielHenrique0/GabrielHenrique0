@@ -1,4 +1,4 @@
-### :programmer: Hello World! :earth_americas:
+### :man_technologist: Hello World! :earth_americas:
 
 <div align="center">
   <a href="https://github.com/GabrielHenrique0">
