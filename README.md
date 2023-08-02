@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/GabrielHenrique0">
-
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique0&theme=dark)
+    
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique0&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique0&layout=donut&theme=transparent"/>
 
 </div>
 
@@ -19,7 +20,6 @@
 
 <div>
   <a href="https://github.com/GabrielHenrique0">
-
-  ![Snake animation](https://github.com/GabrielHenrique0/GabrielHenrique0/blob/output/github-contribution-grid-snake.svg)
-
+    
+  ![snake gif](https://github.com/GabrielHenrique0/GabrielHenrique0/blob/output/github-contribution-grid-snake.svg)
 </div>
