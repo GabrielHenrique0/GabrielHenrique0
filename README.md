@@ -20,6 +20,7 @@
 
 <div>
   <a href="https://github.com/GabrielHenrique0">
+
     
   ![snake gif](https://github.com/GabrielHenrique0/GabrielHenrique0/blob/output/github-contribution-grid-snake.svg)
 </div>
