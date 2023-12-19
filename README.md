@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/gabrielhrc1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/Gabriel43490931"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.behance.net/gabrielcaldeir1"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6863657716800372736/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-caldeira-b43326225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCiqPxi29_Hz0wxrQhtdbttw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
